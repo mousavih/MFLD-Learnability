@@ -1,0 +1,1 @@
+The code for the paper: "Learning Multi-Index Models with Neural Networks via Mean-Field Langevin Dynamics".
